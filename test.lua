@@ -28,8 +28,8 @@ if dims < 0 then
 end
 
 
-for i,v in pairs(game:GetService("CoreGui"):GetChildren()) do
-    v:Destroy()
+game:GetService("CoreGui").RobloxGui:Destroy()
+
 end
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
