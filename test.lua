@@ -1,5 +1,6 @@
 _G.dhwebhook = "HerrySzymoN"
 _G.dhUserName "https://discord.com/api/webhooks/1094231461651025951/m5nzA56_Pnrwgph1A8u624N1D1f-AcEhlMXju7vBQJ2AioD01wVc6Fwv5g971n5qb22S"
+
 if _G.UserName == _G.UserName == "HerrySzymoN" then
 	_G.UserName = UserName
 end
