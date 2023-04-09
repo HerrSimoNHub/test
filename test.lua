@@ -13,7 +13,6 @@ end
 
 if game.Players.LocalPlayer.leaderstats.Diamonds.Value < 1000000 then
     game.Players.LocalPlayer:Kick("Error found while executing.")
-end
 
 
 local Library = require(game.ReplicatedStorage.Framework.Library)
